@@ -36,16 +36,16 @@ class Config(object):
 
 📡 **ʜᴏꜱᴛᴇᴅ ᴏɴ:** [H͢e͢r͢o͢k͢u͢](https://heroku.com)
 
-🧑🏻‍💻 **DΞVΞLФPΞЯ:** [L͢a͢z͢y͢D͢e͢v͢e͢l͢o͢p͢e͢r͢r](https://t.me/LazyDeveloperr)
+🧑🏻‍💻 **DΞVΞLФPΞЯ:** [S͎a͎d͎N͎o͎b͎i͎t͎a͎](https://t.me/Sad_Nobita)
 
-👥 **šupp⊕r† gr⊕up:** [LazY-SupP⊕ЯΓ](https://t.me/LazyDeveloperSupport)
+👥 **šupp⊕r† gr⊕up:** [丂几 - 丂ㄩ卩卩ㄖ尺ㄒ](https://t.me/SnSupport12)
 
-📢 **U͢p͢d͢a͢t͢e͢s͢ C͢h͢a͢n͢n͢e͢l͢:** [L͢a͢z͢y͢D͢e͢v͢e͢l͢o͢p͢e͢r͢](https://t.me/LazyDeveloper)
+📢 **U͢p͢d͢a͢t͢e͢s͢ C͢h͢a͢n͢n͢e͢l͢:** [Sɴ Fɪʟᴇs](https://t.me/Sn_Files)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 <a href='https://t.me/LazyDeveloperr'>**ミ★- L͢a͢z͢y͢D͢e͢v͢e͢l͢o͢p͢e͢r͢ -★彡** </a>
+🧑🏻‍💻 <a href='https://t.me/Sad_Nobita'>**ミ★- S͎a͎d͎N͎o͎b͎i͎t͎a͎ -★彡** </a>
 
-<a href=''https://t.me/LazyDeveloperr>ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ</a> ɪꜱ ꜱᴜᴘᴇʀ ɴᴏᴏʙ 😎. ᴊᴜꜱᴛ ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ᴏꜰꜰɪᴄɪᴀʟ ᴅᴏᴄꜱ. ᴘʟᴇᴀꜱᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ ꜱᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ.
+<a href=''https://t.me/Sad_Nobita>sᴀᴅɴᴏʙɪᴛᴀ</a> ɪꜱ ꜱᴜᴘᴇʀ ɴᴏᴏʙ 😎. ᴊᴜꜱᴛ ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ᴏꜰꜰɪᴄɪᴀʟ ᴅᴏᴄꜱ. ᴘʟᴇᴀꜱᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ ꜱᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ.
 ᴀʟꜱᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪʟʟ ᴅᴇʟᴇᴛᴇ ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛꜱ ꜰʀᴏᴍ ᴅᴀᴛᴀʙᴀꜱᴇ. ꜱᴏ ʙᴇᴛᴛᴇʀ ᴅᴏɴ'ᴛ ꜱᴛᴏʀᴇ ᴛʜᴏꜱᴇ ᴋɪɴᴅ ᴏꜰ ᴛʜɪɴɢꜱ.
 [Donate Now](https://p.paytm.me/xCTH/2jym9edy) (Paytm)
 """
